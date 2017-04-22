@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glad!_FromAkihabara_Project", "Glad!_FromAkihabara_Project.csproj", "{5EAF0E74-32E3-AAC2-73CF-38A66CEEE1D6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glad!_FromAkihabara_Project.Editor", "Glad!_FromAkihabara_Project.Editor.csproj", "{E330E5B0-C0CD-140A-D27F-737BDE27B661}"
